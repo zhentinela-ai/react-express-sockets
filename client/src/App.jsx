@@ -45,7 +45,7 @@ function App() {
           type="text"
           onChange={(e) => setMessage(e.target.value)}
           value={message}
-          className="border-2 border-zinc-500 p-2 w-full"
+          className="border-2 border-zinc-500 p-2 w-full text-lime-600"
         />
         {/* <button className="bg-blue-500">send</button> */}
 
